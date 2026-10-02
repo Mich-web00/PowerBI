@@ -26,7 +26,7 @@ Poiché gli screenshot qui sotto sono statici, ecco come ho strutturato l'intera
 ## Anteprima del Report
 
 **Executive Overview**
-<img width="1777" height="738" alt="Screenshot 2026-10-02 154803" src="https://github.com/user-attachments/assets/368fd7af-269d-4e14-86de-ec3a27e27769" />
+<img width="1772" height="737" alt="Screenshot 2026-10-02 155958" src="https://github.com/user-attachments/assets/d788c29a-7310-4ce7-972e-234ef8c702cb" />
 
 **AI & Analytics** *(Key Influencers, Scomposizione e Forecast)*  
 <img width="1792" height="737" alt="Screenshot 2026-10-02 155019" src="https://github.com/user-attachments/assets/44c38eb6-7e0f-4e5f-938e-46414f38a002" />
@@ -36,5 +36,4 @@ Poiché gli screenshot qui sotto sono statici, ecco come ho strutturato l'intera
 
 
 
-**Dettagli Città** *(Pagina di atterraggio del Drill-through)*  
-[Trascina qui lo screenshot della Pagina 3]
+
